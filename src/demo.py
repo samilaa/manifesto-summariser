@@ -23,19 +23,19 @@ torch.serialization.add_safe_globals([
 stanza.download('fi')
 nlp = stanza.Pipeline('fi', processors='tokenize', use_gpu=False)
 
-# config
+# config (THIS WILL BE IMPROVED LATER TO REMOVE ALL THE REMAINING HARDCODING)
 save_path = 'results/funzies.csv'                                     # where to save the translated data
-n_test = 100                                                          # how many answers will we process?
-top_k = 6                                                             # modify to get k-1 most similar answers for each answer (using cosine similarity)
+n_test = 50                                                           # how many answers will we process?
+top_k = 3                                                             # modify to get k-1 most similar answers for each answer (using cosine similarity)
 batch_size = 32
-threshold = 0.95                                                      # [0, 1] threshold for whether two sentences are similar                
+threshold = 0.8                                                       # [0, 1] threshold for whether two sentences are similar                
+transitivity_depth = 3                                                # how many edges to traverse in the graph-based clustering
 csv_path = 'data/kuntavaalit2021.csv'
 embedding_model = SentenceTransformer('multi-qa-MiniLM-L6-cos-v1')    # a super fast model fine-tuned for semantic search
 label_mapping = ['contradiction', 'entailment', 'neutral']            # for interpreting cross-encoder output
-cross_encoder = CrossEncoder('cross-encoder/nli-deberta-v3-small')    # TO DO: look into best cross-encoder to use
+cross_encoder = CrossEncoder('cross-encoder/nli-roberta-base')    # TO DO: look into best cross-encoder to use
 deepl_api_key = "2076988d-b569-4aa4-8279-194ae522cc4d:fx"       
 translator = GoogleTranslator(source='auto', target='en')
-transitivity_depth = 3
 
 # for conciceness
 def translate(text):
