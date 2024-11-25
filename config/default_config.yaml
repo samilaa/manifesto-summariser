@@ -1,0 +1,23 @@
+# Default configuration for the argument condensation project
+
+# Model settings
+model:
+  backend: "openai"         # Options: "openai", "huggingface"
+  openai:
+    api_key: "YOUR_API_KEY"
+    model: "gpt-3.5-turbo"
+  huggingface:
+    model: "bigscience/bloom"
+
+# Task settings
+task:
+  type: "argument_clustering"  # Task type, e.g., "argument_clustering", "summarization"
+  clustering:
+    max_clusters: 10           # Max number of clusters to create
+    cluster_method: "kmeans"   # Clustering method (e.g., "kmeans", "hierarchical")
+
+# Data settings
+data:
+  input_path: "data/input/example_arguments.txt"
+  output_path: "data/output/clustered_results.json"
+  processed_path: "data/processed/clusters.json"
