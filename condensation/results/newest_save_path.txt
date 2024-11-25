@@ -1,0 +1,65 @@
+Found 4 groups of similar arguments
+
+Largest group size: 3
+
+Smallest group size: 2
+
+Transitivity depth: 2
+
+Using similarity threshold: 0.93
+
+Using top-k: 10
+
+Number of explanations left out: 40
+
+Percentage of explanations grouped: 20.00%
+
+================================================================================
+
+Group 1:
+----------------------------------------
+Argument 1:
+Kasvisruokakin on hyvää ja terveellistä
+
+Argument 2:
+Kasvisruoka on hyvä olla vaihtoehtona muun ruoan ohella.
+
+Argument 3:
+Kasvisruoka on edullista ja ravintoarvoiltaan hyvää
+
+================================================================================
+
+Group 2:
+----------------------------------------
+Argument 1:
+Koulussa pitää olla tarjolla kotimaista ravitsevaa ruokaa, mitä lapset haluavat syödä. Tähän ei tulisi sotkea liikaa ideologiaa.
+
+Argument 2:
+Kannatan terveellistä ja monipuolista kouluruokaa. Pidän Kotkan kouluissa käytäntönä olevaa päivittäistä kasvisruokavaihtoehtoa ja erikseen tarjottavia kasviksia parempana ratkaisuna. Asiassa tarvitaan ennemminkin lisää valistusta, kuin pakkoa.
+On hyvä tunnistaa, että kouluruoka on usealle koululaiselle päivän tärkein ruokailu ja energianlähde. On tärkeää, että kouluruoka on terveeellistä, mutta myös mieleistä. Kouluruokailun kehittämiskohde on pitkiin koulupäiviin liitettävä iltapäivävälipala.
+
+Argument 3:
+Täytyy huomioida, että kyse vain yhdestä ateriasta viikossa. Koulussa on tärkeää tarjota ravitsevaa ja terveellistä ruokaa, sekä ohjata lapsia syömään terveellisesti. Keskimäärin suomalaisten tulisi terveyssyistä vähentää lihan syöntiä. Lisäksi tällä voisi olla ympäristön kannalta positiivisia vaikutuksia.
+
+================================================================================
+
+Group 3:
+----------------------------------------
+Argument 1:
+On hyvä totuttaa lapset monipuoliseen ruokavalioon ja erilaisiin ruokiin.
+
+Argument 2:
+Lasten on hyvä oppia syömään  eri makuja.
+
+================================================================================
+
+Group 4:
+----------------------------------------
+Argument 1:
+Kouluruoan tulee olla monipuolista ja ravitsevaa.
+
+Argument 2:
+Kouluissa tulee olla monipuolista, ravitsevaa ruokaa. En halua ideologista väittelyä mitä kukakin ruokalautaselle valitsee, mutta kunhan proteiinia on riittävästi, vaihtelu virkistää. 
+
+================================================================================
+

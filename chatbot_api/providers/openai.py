@@ -17,11 +17,10 @@ from ..exceptions import (
 class OpenAIProvider(LLMProvider):
     def __init__(self, api_key: str, model: str = "gpt-3.5-turbo", embedding_model: str = "text-embedding-ada-002"):
         
-        self.api_key = api_key or os.getenv("OPENAI_API_KEY")
+        self.api_key = api_key # Get from environment if not provided
         if not self.api_key:
             raise APIKeyNotFoundError(
-                "No API key provided. Either pass it to the constructor or "
-                "set the OPENAI_API_KEY environment variable."
+                "No API key provided. Either pass it to the constructor or set the OPENAI_API_KEY environment variable."
             )
         
         self.client = OpenAI(api_key=api_key)

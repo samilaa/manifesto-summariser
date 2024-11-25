@@ -1,0 +1,356 @@
+Found 26 groups of similar arguments
+Using similarity threshold: 0.96
+================================================================================
+
+Group 1:
+----------------------------------------
+Argument 1:
+Kasvisruokakin on hyvää ja terveellistä
+
+Argument 2:
+Kasvisruoka on ekologista.
+
+Argument 3:
+Kasvisruoka on eettisempää ruokailua. Koulu on merkittävä kasvatuskumppani kodeille ja siksi kasvisruuan tarjoaminen kouluissa on erittäin perusteltua.  Kasvisruoka on monipuolista ja terveellistä ja tukee lasten ja nuorten fyysistä ja psyykkistä kehitystä.
+
+Argument 4:
+Kouluissa tulee olla monipuolista ja terveellistä ruokaa. Kasvisruoka on ympäristölle kestävä vaihtoehto ja on osa terveellistä ruokavaliota.
+
+Argument 5:
+Kasvisruoka on terveellistä, eettistä ja ekologista. On tärkeää, että lapset oppivat syömään monipuolisesti ja hyödyntämään kasviksia ruoanlaitossa.
+
+Argument 6:
+Kasvisruoka on ekologinen ja eettinen vaihtoehto. Julkisen sektorin tulee olla tässä esimerkillinen.  Myös liharuuan osalta toivon, että suositaan lähi- ja luomuruokaa sekä mahdollisuuksien mukaan muutoin eettisesti tuotettua ruokaa.
+
+Argument 7:
+Kouluruokailun tulee olla monipuolista ja ravitsevaa. Kasvisruoka osana monipuolista ruokavaliota on hyväksi sekä terveydelle että ympäristölle.
+
+Argument 8:
+Kasvisruoka on terveellistä, edullista, eettistä ja ekologista. Monipuolinen ruokavalio on hyväksi kaikille, eikä vähiten kasvaville lapsille. Jos ei useammin niin vähintään kerran viikossa on hyvä nauttia kasvisruoka-annos.
+
+Argument 9:
+Kasvisruoka on terveellistä ja ekologista. 
+
+Argument 10:
+Kasvisruoka on hyvää ja terveellistä. On tärkeää suosia kotimaisia raaka-aineita.
+
+Argument 11:
+Kasvisruoka on terveellinen ja hyvä. Mielestäni meidän pitäisi myös arjessa suosia enemmän kasvisruokavaihtoehtoja. 
+
+Argument 12:
+Kasvisruoka on terveellistä kaikille. Ja vähennetään esim. lihan syöntiä.
+
+Argument 13:
+Kasvisruoka on hyvää ja täysipainoista ravintoa. Toivottavasti lähellä tuotettua.
+
+Argument 14:
+Kasvisruoka on sekä hyvää että terveellistä. 
+
+Argument 15:
+Kasvisruoka on liharuokaa eettisempää ja ympäristöystävällisempää. Tarjottavan kasvisruoan tulee olla maittavaa.
+
+Argument 16:
+Erilaisiin suuntauksiin on hyvä tutustua.  Kasvisruoka on terveellistä.
+
+Argument 17:
+Kasvisruoka on terveellistä, ekologista ja eettistä.  Kasvisruoka vähentää riskiä sairastua syöpään sekä  sydän- ja verisuonitauteihin.  Se myös estää ilmaston muutosta liharuokaa pienemmän hiilijalanjäljen vuoksi. 
+
+Argument 18:
+On tärkeää, että kouluissa on tarjolla laadukasta, monipuolista ja mahdollisimman lähellä tuotettua ruokaa. Kasvisruoka on hyvä valinta niin ihmisen terveyden kuin ympäristönkin kannalta.
+
+================================================================================
+
+Group 2:
+----------------------------------------
+Argument 1:
+On hyvä totuttaa lapset monipuoliseen ruokavalioon ja erilaisiin ruokiin.
+
+Argument 2:
+On hyvä antaa lapsille erilaisia ruokavaihtoehtoja ruokatottumusten kasvatusmielessäkin. Kotiruoka voi olla joissakin perheissä yksipuolista ja siihen voi olla monta syytä.
+
+================================================================================
+
+Group 3:
+----------------------------------------
+Argument 1:
+Kasvisruokien tuominen enemmän normaaliksi osaksi ruokakulttuuriamme on suotavaa. Kouluissa kaikilla aterioilla ei tarvitse olla tarjolla lihaa.
+
+Argument 2:
+Kouluruuassa ei tarvitse olla lainkaan lihaa.
+
+================================================================================
+
+Group 4:
+----------------------------------------
+Argument 1:
+Kouluruoan tulee olla monipuolista ja ravitsevaa.
+
+Argument 2:
+Kouluruokailun tulee olla monipuolista ja ravitsevaa. Kasvisruoka osana monipuolista ruokavaliota on hyväksi sekä terveydelle että ympäristölle.
+
+Argument 3:
+Kouluruoan pitää olla monipuolista.
+
+Argument 4:
+Kouluruuan tulee olla monipuolista.
+
+================================================================================
+
+Group 5:
+----------------------------------------
+Argument 1:
+Kouluissa tulee olla monipuolista, ravitsevaa ruokaa. En halua ideologista väittelyä mitä kukakin ruokalautaselle valitsee, mutta kunhan proteiinia on riittävästi, vaihtelu virkistää. 
+
+Argument 2:
+Kouluissa tulee olla monipuolista ja terveellistä ruokaa. Kasvisruoka on ympäristölle kestävä vaihtoehto ja on osa terveellistä ruokavaliota.
+
+Argument 3:
+Kouluissa tulee tarjota mahdollisimman monipuolisesti ruokaa.
+
+Argument 4:
+Ns. "kasvisruokapäiviä" on aina ollut vaikkei niitä sillä nimellä ole kutsuttu, joten tästä aiheesta on mielestäni tehty kärpäsestä härkänen. Kouluissa pitää tehdä taloudellisesti mahdollisimman monipuolista ja terveellistä ruokaa. Sitä pitää olla myös riittävästi.
+
+================================================================================
+
+Group 6:
+----------------------------------------
+Argument 1:
+Kasviksia tulee olla joka päivä
+
+Argument 2:
+Joka päivä kasviksia. Monipuolisuus on parasta ja kasvisten käytöstä on hyvä tulla rutiinia monestakin syystä.
+
+================================================================================
+
+Group 7:
+----------------------------------------
+Argument 1:
+Kotkassa on tällä hetkellä joka päivä kasvisvahtoehto
+
+Argument 2:
+Kotkassa on jo nykyään joka päivä kasvisruokavaihtoehto. 
+
+================================================================================
+
+Group 8:
+----------------------------------------
+Argument 1:
+Kasvisruokia hyvä oppia syömään 
+
+Argument 2:
+Hyvä oppia syömään myös kasvisruokaa. Saadaan tehtyä hyviä aterioita myös pelkästään kasviksista. 
+
+================================================================================
+
+Group 9:
+----------------------------------------
+Argument 1:
+Kasvisruoka on hyvä olla vaihtoehtona muun ruoan ohella.
+
+Argument 2:
+Jokaisella on itsellään oikeus valita mitä syö. Kasvisruoka on hyvä olla vaihtoehtona.
+
+================================================================================
+
+Group 10:
+----------------------------------------
+Argument 1:
+Vaihtoehtoja pitää olla. Toivottavasti kasvisvaihtoehdolla jaksaa koko pitkän koulupäivän.
+
+Argument 2:
+Vaihtoehtoja pitää olla.
+
+================================================================================
+
+Group 11:
+----------------------------------------
+Argument 1:
+Itse aloitin kasvissyönnin (Pescovegetaristi) joskus 5 vuotta sitten. Aluksi en osannut muuta kuin tyyliin ostaa Pirkan pinaattikeittoa, mutta hyvin nopeasti huomasin miten monipuolista ruokaa voi tehdä ilman lihaa. Nykyään on niin paljon erilaisia kasvipohjaisia raaka-aineita nyhtökaurasta quorniin, että siitä ei homma jää kiinni kouluruokailussakaan.
+Lihan vähentäminen ravintona on myös välttämätöntä ilmastonmuutoksen hillitsemiseksi. Ainakin suoran eläinperäisen lihan. Ns. vatiliha eli eläinsoluista kasvatettu liha on eri asia ja se voi tulevaisuudessa olla ilmaston kannalta parempi vaihtoehto, minkä lisäksi se tietysti vähentäisi eläimille aiheutettavaa kärsimystä.
+
+Argument 2:
+Ns. "kasvisruokapäiviä" on aina ollut vaikkei niitä sillä nimellä ole kutsuttu, joten tästä aiheesta on mielestäni tehty kärpäsestä härkänen. Kouluissa pitää tehdä taloudellisesti mahdollisimman monipuolista ja terveellistä ruokaa. Sitä pitää olla myös riittävästi.
+
+================================================================================
+
+Group 12:
+----------------------------------------
+Argument 1:
+On hyvä totuttaa/tutustuttaa oppilaat kasvisruokiin. Ovat terveellinen vaihtoehto.
+
+Argument 2:
+On hyvä totuttaa lapsia ja nuoria kasvisruokaan. Toivoisin kuitenkin, että kasvisruoan makuun voitaisiin myös panostaa siten, että se tulisi syödyksi. Ilmainen kouluruoka ei paljoa auta, jos se ei tule syödyksi. 
+
+Argument 3:
+Koululaisia on kyllä hyvä tutustuttaa kasvisruokaan. En kuitenkaan suoraan näe pakottamista parhaana keinona. Tarjotaan laadukas kasvisruoka vaihtoehtona.
+
+Argument 4:
+Koulussa olisi hyvä tutustuttaa lapsia kasvisruokiin.
+
+================================================================================
+
+Group 13:
+----------------------------------------
+Argument 1:
+JOkainen päivä pitää olla kasvisruoka vaihtoehtona.
+
+Argument 2:
+Kasvisruokaa pitäisi olla joka päivä tarjolla. 
+
+Argument 3:
+Joka päivä kasvisruokavaihtoehto.
+
+Argument 4:
+Joka päivä pitää olla kasvisruoka vaihtoehtona. Jos se todetaan sellaiseksi, että kaikki syö sitä, niin miksei se voisi olla ainoa vaihtoehto. Kasvisruoka hyvin tehtynä on hyvää.
+
+Argument 5:
+Oikeastaan kasvisruokaa tulisi olla tarjolla jokapäivä.
+
+================================================================================
+
+Group 14:
+----------------------------------------
+Argument 1:
+Mielestäni kouluissa tulisi tarjota kasvisruokavaihtoehto joka päivä. Kerran viikossa kasvisruoka kaikille sen lisäksi on hyvä asia. Kouluissa vaikutetaan ihmisten ruokailutottumuksiin ja on hyvä, jos kaikki oppivat syömään kasvisruokaa. 
+
+Argument 2:
+Mielestäni kouluissa pitäisi olla kaikkina päivinä myös kasvisruokaa tarjolla. Tämä olisi paras keino siirtyä kasvispainotteiseen ruokavalioon.
+
+Argument 3:
+Koulussa pitäisi mielestäni olla joka päivä tarjolla täysipainoisia kasvisruokavaihtoehtoja. 
+Punaista lihaa tulisi tarjota vähän ja harvoin. 
+Kanaa useammin ja kotimaista villiä kalaa usein.
+Tämä olisi parempi vaihtoehto sekä terveyden että ympäristön kannalta.
+
+================================================================================
+
+Group 15:
+----------------------------------------
+Argument 1:
+On tärkeintä, että kouluruoka on monipuolista, ravinteikasta ja sitä on riittävästi.
+
+Argument 2:
+Tärkeintä on monipuolinen, laadukas ja ravitseva kouluruoka.
+
+================================================================================
+
+Group 16:
+----------------------------------------
+Argument 1:
+Kasvisruoan tarjoamista tulisi ehdottomasti lisätä kouluissa. 2020-luvun koululaiset ovat valveutuneita ja tietoisia kasvisruoan ilmastoeduista, kasvisruokapäivä myös lisää monipuolisuutta ja opettaa syömään enemmän kasviksia.
+
+Argument 2:
+Hienoa, että Kotkan kouluissa on ollut jo pitkään tarjolla aina kasvisruokavaihtoehto. Kasvisruokaa tulee lisätä kouluissa.
+
+================================================================================
+
+Group 17:
+----------------------------------------
+Argument 1:
+Kasvisruokavaihtoehto pitää olla useamminkin, mutta ei ainoana
+
+Argument 2:
+Kasvisruoka on terveellistä ja tärkeä osa lasten kasvussa ja kehityksessä. Kasvisruokaa pitäisi olla useammin, mutta vaihtoehtoja pitäisi olla tarjolla kasvisvaihtoehdon rinnalla. Monipuolinen ravinto on tärkeä lasten kasvussa ja kehityksessä!
+
+================================================================================
+
+Group 18:
+----------------------------------------
+Argument 1:
+Pitää säilyttää valinnan vapaus. Voi olla kasvisruoka vaihtoehtona, mutta ei niin että se on ainoa vaihtoehto.
+Kasviksia tulee syödä osana ruokailua joka päivä muutenkin mutta ei pelkästään. Ihminen on luotu sekaravinnon käyttäjäksi ja sitä ei ideologiat muuksi muuta. 
+
+Argument 2:
+Kasvisruokavaihtoehto voi olla tarjolla, mutta ei ainoana vaihtoehtona.
+
+Argument 3:
+Kasvisruoka saa olla vaihtoehtona ruokailussa, mutta ei pakollisena ainoana vaihtoehtona.
+
+================================================================================
+
+Group 19:
+----------------------------------------
+Argument 1:
+Saisi olla useampikin, mutta yhdestä on hyvä aloittaa. Liha- ja maitotuotteiden kulutusta on vähennettävä.
+
+Argument 2:
+Lihantuotanto aiheuttaa globaalilla tasolla merkittävän osan kasvihuonepäästöistä ja sitoo ison osan viljelypinta-alasta. Lihan kulutusta on vähennettävä. Kulutustottumusten laajamittainen muutos vaatii aikaa ja totuttelua. On vastuullista ottaa osaa lihan kulutuksen vähentämiseen. Julkisten ruokaloiden tarjonta on hyvä ja helppo keino tutustuttaa ihmisiä kasvisruokaan ja herätellä ajatusta lihan osuuden pienentämisestä omassa ruokavaliossa. Punaisen lihan vähentäminen viikoittaisessa ruokavaliossa, olisi myös tehokas keino pienentää ruuan kokonaishiilijalanjälkeä. Yhden pihvin vähentäminen on mukavampaa, kuin viimeisen pihvin vähentäminen.
+
+================================================================================
+
+Group 20:
+----------------------------------------
+Argument 1:
+Hyvä on oppia monipuoliseen ruokavalioon. Sitä noudatan itsekin.
+
+Argument 2:
+On hyvä oppia syömään monipuolisesti. LIsäksi kasvisruokailun edistäminen on hyvä kestävän kehityksen kannalta. Omalta kouluajalta muistan, että lihaa ei ollut joka päivä ja silti kouluruoka oli hyvää ja terveellistä. 
+
+================================================================================
+
+Group 21:
+----------------------------------------
+Argument 1:
+Kouluissa on hyvin paljon kasvisruokapainoitteista ruokaa jo nyt. En näe ajankohtaiseksi lisätä määrää.
+
+Argument 2:
+Aika moni kouluruoka on jo nyt kasvisruokaa.
+
+Argument 3:
+Jo nyt kouluissa on kasvisruokaa hyvin tarjolla. Kannatan lähituotteiden käytön lisäämistä kouluruokailussa.Ongelmana on että liian iso osa koululaisia jättää aterian syömättä ja korvaa sen epäterveellisillä välipaloilla. Suomi on edistyksellinen tarjotessaan ilmaisen aterian koululaisille ja tätä etuoikeutta kannattaisi korostaa.
+
+================================================================================
+
+Group 22:
+----------------------------------------
+Argument 1:
+Mielummin useammin. Samoin kotitaloustunneilla pitäisi tehdä paljon kasvisruokaa, jotta nuoret oppivat valmistamaan herkullista kasvisruokaa myös itse. Kasvisruokailu edistää kestävää ja terveyttä edistävää elämäntapaa.
+
+
+Argument 2:
+Kasvisruokailu edistää terveyttä
+
+================================================================================
+
+Group 23:
+----------------------------------------
+Argument 1:
+Joillekkin lapsille kouluruoka voi olla päivän ainoa lämmin ruoka. On otettava huomioon, että aterian on oltava maittava ja täyttävä, jotta kasvavassa iässä oleva lapsi saa riittävästi energiaa ja monipuolista ravintoa. Kasvisruoka yksistään ei tarjoa riittävää vatsantäytettä eikä kaikkia vitamiineja ja hivenaineita, eikä ole kaikkien lasten mielestä niin maittavaa. On riski, että lapset jättävät kasvisruokapäivänä ruokaa syömättä.
+
+Argument 2:
+Kasvisruoka vaihtoehtoja tulee olla kouluissa saatavilla joka päivä. Kasvisruokapäivän suunnitteluun otetaan lapset ja nuoret mukaan, osallistaminen myös vähentää ennakkoluuloja. Kasvisruokapäivänä tulee olla tarjolla lisukkeita leivän päälle, jotta jokainen lapsi ja nuori saa vatsansa täyteen. Kouluruoka on monelle lapselle päivän ainoa lämmin ateria. Tärkeintä että jokaisella on mahdollisuus vaikuttaa valintoihinsa.
+
+================================================================================
+
+Group 24:
+----------------------------------------
+Argument 1:
+Monimuotoinen syöminen on tärkeää, etenkin kehitysvaiheessa oleville lapsille. Liiallinen lihantuontanto ei myöskään ole eduksi ilmastolle
+
+Argument 2:
+Kasvisruoka on terveellistä, edullista, eettistä ja ekologista. Monipuolinen ruokavalio on hyväksi kaikille, eikä vähiten kasvaville lapsille. Jos ei useammin niin vähintään kerran viikossa on hyvä nauttia kasvisruoka-annos.
+
+================================================================================
+
+Group 25:
+----------------------------------------
+Argument 1:
+Kuopion koulut tarjoavat  joka päivä kasvisruoka mahdollisuuden.
+
+Argument 2:
+Kuopion kouluissa on tarjolla joka päivä kasvisruokavaihtoehto, joten mahdollisuus kasvisruoan syöntiin toteutuu päivittäin. Tämä on ehdottoman hyvä käytäntö.  Kun tarjolla on kasvisruokaa, myös sellaiset oppilaat, jotka eivät ole tottuneet muuten syömään kasvipainotteita ruokaa, saavat tilaisuuden kokeilla kasvisruokavaihtoehtoa.
+
+Kouluissa tarjottavan ruoan pitää olla ravitsevaa ja terveellistä ja ympäristöystävällistä. Lisäksi olisi hienoa, jos tarjolla olisi entistä enemmän ruokaa, joka tulee paikallisilta tiloilta. 
+
+================================================================================
+
+Group 26:
+----------------------------------------
+Argument 1:
+Tämä on mielestäni hyvä juttu. Kasvisruoka on aina hyvästä, eikä kukaan kuihdu yhteen tai kahteenkaan kasvisruokapäivään. Kasvisruoka oikein koostettuna on ihan yhtä ravitsevaa kuin liharuokakin. Toivoisin kuitenkin, että nämä kasvisruokapäivät olisivat sitten ihan oikeaa kasvisruokaa, eikä friteerattuja perunapalleroita. Ja toivoisin vielä, että kouluissa käytettäisiin lähiruokaa aina, kun mahdollista.
+
+Argument 2:
+Kasvisruoka on eduksi ilmastolle ja terveydelle. Kasvisruoka on mahdollista toteuttaa yhtä ravitsevana ja maistuvana kuin liharuokakin. 
+
+================================================================================
+
