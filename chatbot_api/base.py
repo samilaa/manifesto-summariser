@@ -24,11 +24,8 @@ class UsageStats:
     @property
     def estimated_cost(self) -> float:
         """Calculate estimated cost based on token usage."""
-        # Implementation would depend on model pricing
         pass
 
-
-# First, let's create a dataclass for embedding responses
 @dataclass
 class EmbeddingResponse:
     embedding: NDArray[np.float32]  # The actual embedding vector
