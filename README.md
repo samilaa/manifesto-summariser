@@ -5,6 +5,7 @@
 
 # packages and stuff
 - pip install -r requirements.txt
+- TO DO: fix dependency issues
 
 # api-key
 - set your openai api key in the .env file
