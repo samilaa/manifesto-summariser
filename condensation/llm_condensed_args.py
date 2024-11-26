@@ -23,7 +23,7 @@ key = os.getenv("OPENAI_API_KEY")
 n_clusters = 5
 n_comments = 15
 response_max_tokens = 100
-data_source_path = 'data/sources/kuntavaalit2021.csv'
+data_source_path = os.path.join(parent_dir, 'data', 'sources', 'kuntavaalit2021.csv')
 question_columns = ['q1.explanation_fi', 'q2.explanation_fi']
 provider = OpenAIProvider(api_key=os.getenv("OPENAI_API_KEY"))
 
