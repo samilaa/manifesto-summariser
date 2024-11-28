@@ -1,4 +1,5 @@
 import os
+import tiktoken
 from openai import OpenAI, OpenAIError
 from typing import List, Optional
 from chatbot_api.base import LLMProvider, LLMResponse, Message, UsageStats, EmbeddingResponse
@@ -21,12 +22,11 @@ class OpenAIProvider(LLMProvider):
         self.embedding_model = embedding_model
 
     async def count_tokens(self, text: str) -> int:
+        encoding = tiktoken.encoding_for_model("gpt-4o-mini")
         try:
-            response = await self.client.tools.tokenize.create(
-                model=self.model,
-                texts=[text]
-            )
-            return response.data[0].length
+            token_list = encoding.encode(text)
+            tokens = len(token_list)
+            return tokens
             
         except OpenAIError as e:
             raise LLMException(str(e)) from e
