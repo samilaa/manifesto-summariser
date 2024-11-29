@@ -27,6 +27,7 @@ distlib==0.3.9
 distro==1.9.0
 dulwich==0.21.7
 emoji==2.14.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 executing==2.1.0
 fake-useragent==1.5.1
 fastjsonschema==2.20.0
