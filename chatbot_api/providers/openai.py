@@ -21,33 +21,6 @@ class OpenAIProvider(LLMProvider):
         self.model = model
         self.embedding_model = embedding_model
 
-    async def count_tokens(self, text: str) -> int:
-        encoding = tiktoken.encoding_for_model("gpt-4o-mini")
-        try:
-            token_list = encoding.encode(text)
-            tokens = len(token_list)
-            return tokens
-            
-        except OpenAIError as e:
-            raise LLMException(str(e)) from e
-        
-    async def max_context_tokens(self) -> int:
-        try:
-            response = await self.client.models.retrieve(model=self.model)
-            return response.max_tokens
-            
-        except OpenAIError as e:
-            raise LLMException(str(e)) from e
-    
-    def estimated_cost(self, prompt_tokens, completion_tokens) -> float:
-        input_cost_per_1k = 0.0015
-        output_cost_per_1k = 0.002
-        
-        input_cost = (prompt_tokens / 1000) * input_cost_per_1k
-        output_cost = (completion_tokens / 1000) * output_cost_per_1k
-        
-        return input_cost + output_cost
-
     async def generate(
         self,
         messages: List[Message],
@@ -81,6 +54,34 @@ class OpenAIProvider(LLMProvider):
             if "maximum context length" in str(e):
                 raise TokenLimitException(str(e)) from e
             raise LLMException(str(e)) from e
+
+    async def count_tokens(self, text: str) -> int:
+        encoding = tiktoken.encoding_for_model(self.model)
+        try:
+            token_list = encoding.encode(text)
+            tokens = len(token_list)
+            return tokens
+            
+        except OpenAIError as e:
+            raise LLMException(str(e)) from e
+        
+    async def max_context_tokens(self) -> int:
+        try:
+            response = await self.client.models.retrieve(model=self.model)
+            return response.max_tokens
+            
+        except OpenAIError as e:
+            raise LLMException(str(e)) from e
+    
+    # to do: implement based on the model that is being used
+    def estimated_cost(self, prompt_tokens, completion_tokens) -> float:
+        input_cost_per_1k = 0.0015
+        output_cost_per_1k = 0.002
+        
+        input_cost = (prompt_tokens / 1000) * input_cost_per_1k
+        output_cost = (completion_tokens / 1000) * output_cost_per_1k
+        
+        return input_cost + output_cost
         
     async def get_embedding(
         self,
