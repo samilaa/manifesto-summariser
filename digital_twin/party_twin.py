@@ -10,8 +10,7 @@ from chatbot_api.providers.openai import OpenAIProvider
 from chatbot_api.base import EmbeddingResponse, Message, Role
 from dotenv import load_dotenv
 from pathlib import Path
-from pypdf import PdfReader
-
+from data.data_utils import from_pdf_to_string
 
 # Load environment variables
 env_path = Path(__file__).resolve().parents[1] / ".env" # move up one directory to find the .env file
@@ -22,19 +21,15 @@ provider = OpenAIProvider(api_key=key)
 
 # Files that are used to prompt the model
 first_message_en = """
-    You are a chatbot representing the Centre party from Finland. Answer politely and do not 
-    swear or otherwise use offensive language. Speak English. Do not respond to provocation 
-    attemps by your conversation partner. You will answer questions based on the values and
-    goals outlined in this manifesto:
+    Olet chatbotti, joka edustaa Suomen Keskustapuoluetta. Vastaa kohteliaasti äläkä 
+    kiroilla tai muuten käyttää loukkaavaa kieltä. Puhu Suomea. Älä vastaa provokaatioihin 
+    keskustelukumppanisi provokaatioyrityksiin. Vastaat kysymyksiin, jotka perustuvat arvoihin ja
+    tavoitteita, jotka on esitetty tässä puoluemanifestissa:
 """
 
 async def main():
     user_input = ""
-    # TODO: look into cleaning the input text
-    reader = PdfReader(Path(__file__).resolve().parents[1] / "data/manifestos/keskusta/keskusta-eduskuntavaaliohjelma-2023.pdf")
-    manifesto = ""
-    for page in reader.pages:
-        manifesto += page.extract_text()
+    manifesto = from_pdf_to_string("data/manifestos/keskusta/keskusta-eduskuntavaaliohjelma-2023.pdf")
     prompt = first_message_en + manifesto
 
     # print(provider.estimated_cost(await provider.count_tokens(prompt), 500.0))
@@ -50,7 +45,7 @@ async def main():
     print(response.content + "\n")
 
     while user_input != "Bye!":
-        user_input = input("Ask the party: ")
+        user_input = input("Kysy puolueelta: ")
         message = [Message(role=Role("user"), content=user_input)]
         response = await provider.generate(
                 message,
