@@ -189,7 +189,7 @@ async def main():
     all_agreements_df = pd.concat(all_category_agreements, ignore_index=True)
     all_agreements_df.to_csv(output_path, index=False, encoding='utf-8')
 
-    prompt = 'Please summarise these results: ' + all_agreements_df.to_string()
+    prompt = 'Please summarise these results. The format of the summary should be along the lines of "90% of the party candidates agree on questions 1-5 related to environmental questions. 10% of the candidates had opposing views". \n\n' + all_agreements_df.to_string()
 
     print('Estimated cost:', provider.estimated_cost(await provider.count_tokens(prompt), 500.0))
     # cost of sending the manifesto: 0.046865500000000004 (of ? currency)
