@@ -10,7 +10,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 csv_path = os.path.join(current_dir, 'data', 'raw_answers_and_questions.csv')
 
 input_file = os.path.join(current_dir, 'data', 'raw_answers_and_questions.csv')  # Replace with your input CSV file name
-target_party = 'Vasemmistoliitto'  # Replace with the party name you want to filter by
+target_party = 'Vihreät'  # Replace with the party name you want to filter by
 output_file = os.path.join(current_dir, 'outputs', f'filtered_output_{target_party}.csv')  # Replace with your desired output CSV file name
 
 # Open the input file and read it
